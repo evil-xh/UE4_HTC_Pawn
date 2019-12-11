@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XhPawnController.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Xh202\XhSelf\Plugin\Intermediate\Build\Win64\PluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Xh202\XhSelf\Plugin\Plugins\XhPawnController\Intermediate\Build\Win64\UE4Editor\Development\XhPawnController\Module.XhPawnController.cpp.obj"
+"E:\Xh202\XhSelf\Plugin\Plugins\XhPawnController\Intermediate\Build\Win64\UE4Editor\Development\XhPawnController\Module.XhPawnController.gen.cpp.obj"
+"E:\Xh202\XhSelf\Plugin\Plugins\XhPawnController\Intermediate\Build\Win64\UE4Editor\Development\XhPawnController\PCLaunch.rc.res"
+/OUT:"E:\Xh202\XhSelf\Plugin\Plugins\XhPawnController\Intermediate\Build\Win64\UE4Editor\Development\XhPawnController\UE4Editor-XhPawnController.lib"
